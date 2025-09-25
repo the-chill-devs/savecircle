@@ -1,6 +1,7 @@
 # SaveCircle Backend
 
 ## Description
+
 This is the backend for the savecircle financial accountability application which will serve both the frontend (web application) and mobile application of the project.
 
 ## Project setup
